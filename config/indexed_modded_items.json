@@ -1,0 +1,926 @@
+{
+  "minecraft:netherite_sword": {
+    "max_enchanting_slots": 10,
+    "repair_scaling": 1.0
+  },
+  "minecraft:netherite_pickaxe": {
+    "max_enchanting_slots": 10,
+    "repair_scaling": 1.0
+  },
+  "minecraft:netherite_axe": {
+    "max_enchanting_slots": 10,
+    "repair_scaling": 1.0
+  },
+  "minecraft:netherite_hoe": {
+    "max_enchanting_slots": 10,
+    "repair_scaling": 1.0
+  },
+  "minecraft:netherite_shovel": {
+    "max_enchanting_slots": 10,
+    "repair_scaling": 1.0
+  },
+  "minecraft:netherite_helmet": {
+    "max_enchanting_slots": 10,
+    "repair_scaling": 1.0
+  },
+  "minecraft:netherite_chestplate": {
+    "max_enchanting_slots": 10,
+    "repair_scaling": 1.0
+  },
+  "minecraft:netherite_leggings": {
+    "max_enchanting_slots": 10,
+    "repair_scaling": 1.0
+  },
+  "minecraft:netherite_boots": {
+    "max_enchanting_slots": 10,
+    "repair_scaling": 1.0
+  },
+  "minecraft:diamond_sword": {
+    "max_enchanting_slots": 10,
+    "repair_scaling": 0.5
+  },
+  "minecraft:diamond_pickaxe": {
+    "max_enchanting_slots": 10,
+    "repair_scaling": 0.5
+  },
+  "minecraft:diamond_axe": {
+    "max_enchanting_slots": 10,
+    "repair_scaling": 0.5
+  },
+  "minecraft:diamond_hoe": {
+    "max_enchanting_slots": 10,
+    "repair_scaling": 0.5
+  },
+  "minecraft:diamond_shovel": {
+    "max_enchanting_slots": 10,
+    "repair_scaling": 0.5
+  },
+  "minecraft:diamond_helmet": {
+    "max_enchanting_slots": 10,
+    "repair_scaling": 0.5
+  },
+  "minecraft:diamond_chestplate": {
+    "max_enchanting_slots": 10,
+    "repair_scaling": 0.5
+  },
+  "minecraft:diamond_leggings": {
+    "max_enchanting_slots": 10,
+    "repair_scaling": 0.5
+  },
+  "minecraft:diamond_boots": {
+    "max_enchanting_slots": 10,
+    "repair_scaling": 0.5
+  },
+  "minecraft:golden_sword": {
+    "max_enchanting_slots": 18,
+    "repair_scaling": 1.0
+  },
+  "minecraft:golden_pickaxe": {
+    "max_enchanting_slots": 18,
+    "repair_scaling": 1.0
+  },
+  "minecraft:golden_axe": {
+    "max_enchanting_slots": 18,
+    "repair_scaling": 1.0
+  },
+  "minecraft:golden_hoe": {
+    "max_enchanting_slots": 18,
+    "repair_scaling": 1.0
+  },
+  "minecraft:golden_shovel": {
+    "max_enchanting_slots": 18,
+    "repair_scaling": 1.0
+  },
+  "minecraft:golden_helmet": {
+    "max_enchanting_slots": 18,
+    "repair_scaling": 1.0
+  },
+  "minecraft:golden_chestplate": {
+    "max_enchanting_slots": 18,
+    "repair_scaling": 1.0
+  },
+  "minecraft:golden_leggings": {
+    "max_enchanting_slots": 18,
+    "repair_scaling": 1.0
+  },
+  "minecraft:golden_boots": {
+    "max_enchanting_slots": 18,
+    "repair_scaling": 1.0
+  },
+  "minecraft:iron_sword": {
+    "max_enchanting_slots": 12,
+    "repair_scaling": 2.0
+  },
+  "minecraft:iron_pickaxe": {
+    "max_enchanting_slots": 12,
+    "repair_scaling": 2.0
+  },
+  "minecraft:iron_axe": {
+    "max_enchanting_slots": 12,
+    "repair_scaling": 2.0
+  },
+  "minecraft:iron_hoe": {
+    "max_enchanting_slots": 12,
+    "repair_scaling": 2.0
+  },
+  "minecraft:iron_shovel": {
+    "max_enchanting_slots": 12,
+    "repair_scaling": 2.0
+  },
+  "minecraft:iron_helmet": {
+    "max_enchanting_slots": 12,
+    "repair_scaling": 2.0
+  },
+  "minecraft:iron_chestplate": {
+    "max_enchanting_slots": 12,
+    "repair_scaling": 2.0
+  },
+  "minecraft:iron_leggings": {
+    "max_enchanting_slots": 12,
+    "repair_scaling": 2.0
+  },
+  "minecraft:iron_boots": {
+    "max_enchanting_slots": 12,
+    "repair_scaling": 2.0
+  },
+  "minecraft:stone_sword": {
+    "max_enchanting_slots": 14,
+    "repair_scaling": 2.0
+  },
+  "minecraft:stone_pickaxe": {
+    "max_enchanting_slots": 14,
+    "repair_scaling": 2.0
+  },
+  "minecraft:stone_axe": {
+    "max_enchanting_slots": 14,
+    "repair_scaling": 2.0
+  },
+  "minecraft:stone_hoe": {
+    "max_enchanting_slots": 14,
+    "repair_scaling": 2.0
+  },
+  "minecraft:stone_shovel": {
+    "max_enchanting_slots": 14,
+    "repair_scaling": 2.0
+  },
+  "minecraft:wooden_sword": {
+    "max_enchanting_slots": 16,
+    "repair_scaling": 2.0
+  },
+  "minecraft:wooden_pickaxe": {
+    "max_enchanting_slots": 16,
+    "repair_scaling": 2.0
+  },
+  "minecraft:wooden_axe": {
+    "max_enchanting_slots": 16,
+    "repair_scaling": 2.0
+  },
+  "minecraft:wooden_hoe": {
+    "max_enchanting_slots": 16,
+    "repair_scaling": 2.0
+  },
+  "minecraft:wooden_shovel": {
+    "max_enchanting_slots": 16,
+    "repair_scaling": 2.0
+  },
+  "minecraft:chainmail_helmet": {
+    "max_enchanting_slots": 14,
+    "repair_scaling": 1.0
+  },
+  "minecraft:chainmail_chestplate": {
+    "max_enchanting_slots": 14,
+    "repair_scaling": 1.0
+  },
+  "minecraft:chainmail_leggings": {
+    "max_enchanting_slots": 14,
+    "repair_scaling": 1.0
+  },
+  "minecraft:chainmail_boots": {
+    "max_enchanting_slots": 14,
+    "repair_scaling": 1.0
+  },
+  "minecraft:leather_helmet": {
+    "max_enchanting_slots": 16,
+    "repair_scaling": 1.0
+  },
+  "minecraft:leather_chestplate": {
+    "max_enchanting_slots": 16,
+    "repair_scaling": 1.0
+  },
+  "minecraft:leather_leggings": {
+    "max_enchanting_slots": 16,
+    "repair_scaling": 1.0
+  },
+  "minecraft:leather_boots": {
+    "max_enchanting_slots": 16,
+    "repair_scaling": 1.0
+  },
+  "minecraft:fishing_rod": {
+    "max_enchanting_slots": 8,
+    "repair_scaling": 4.0
+  },
+  "minecraft:crossbow": {
+    "max_enchanting_slots": 7,
+    "repair_scaling": 4.0
+  },
+  "minecraft:bow": {
+    "max_enchanting_slots": 8,
+    "repair_scaling": 4.0
+  },
+  "minecraft:trident": {
+    "max_enchanting_slots": 8,
+    "repair_scaling": 0.5
+  },
+  "minecraft:turtle_helmet": {
+    "max_enchanting_slots": 15,
+    "repair_scaling": 0.5
+  },
+  "minecraft:elytra": {
+    "max_enchanting_slots": 6,
+    "repair_scaling": 1.0
+  },
+  "minecraft:shears": {
+    "max_enchanting_slots": 5,
+    "repair_scaling": 1.0
+  },
+  "minecraft:flint_and_steel": {
+    "max_enchanting_slots": 5,
+    "repair_scaling": 1.0
+  },
+  "minecraft:shield": {
+    "max_enchanting_slots": 5,
+    "repair_scaling": 1.0
+  },
+  "minecraft:carrot_on_a_stick": {
+    "max_enchanting_slots": 5,
+    "repair_scaling": 1.0
+  },
+  "minecraft:warped_fungus_on_a_stick": {
+    "max_enchanting_slots": 5,
+    "repair_scaling": 1.0
+  },
+  "unitool:mattock": {
+    "max_enchanting_slots": 5,
+    "repair_scaling": 2.0
+  },
+  "carvepump:wooden_carver": {
+    "max_enchanting_slots": 16,
+    "repair_scaling": 2.0
+  },
+  "carvepump:stone_carver": {
+    "max_enchanting_slots": 14,
+    "repair_scaling": 2.0
+  },
+  "carvepump:iron_carver": {
+    "max_enchanting_slots": 12,
+    "repair_scaling": 2.0
+  },
+  "carvepump:gold_carver": {
+    "max_enchanting_slots": 18,
+    "repair_scaling": 1.0
+  },
+  "carvepump:diamond_carver": {
+    "max_enchanting_slots": 10,
+    "repair_scaling": 0.5
+  },
+  "carvepump:netherite_carver": {
+    "max_enchanting_slots": 10,
+    "repair_scaling": 1.0
+  },
+  "outvoted:wildfire_shield": {
+    "max_enchanting_slots": 5,
+    "repair_scaling": 1.0
+  },
+  "betterend:elytra_crystalite": {
+    "max_enchanting_slots": 5,
+    "repair_scaling": 1.0
+  },
+  "betterend:elytra_armored": {
+    "max_enchanting_slots": 5,
+    "repair_scaling": 1.0
+  },
+  "betterend:iron_hammer": {
+    "max_enchanting_slots": 12,
+    "repair_scaling": 2.0
+  },
+  "betterend:golden_hammer": {
+    "max_enchanting_slots": 18,
+    "repair_scaling": 1.0
+  },
+  "betterend:diamond_hammer": {
+    "max_enchanting_slots": 10,
+    "repair_scaling": 0.5
+  },
+  "betterend:netherite_hammer": {
+    "max_enchanting_slots": 10,
+    "repair_scaling": 1.0
+  },
+  "betterend:aeternium_sword": {
+    "max_enchanting_slots": 8,
+    "repair_scaling": 1.0
+  },
+  "betterend:aeternium_pickaxe": {
+    "max_enchanting_slots": 8,
+    "repair_scaling": 1.0
+  },
+  "betterend:aeternium_axe": {
+    "max_enchanting_slots": 8,
+    "repair_scaling": 1.0
+  },
+  "betterend:aeternium_hoe": {
+    "max_enchanting_slots": 8,
+    "repair_scaling": 1.0
+  },
+  "betterend:aeternium_hammer": {
+    "max_enchanting_slots": 8,
+    "repair_scaling": 1.0
+  },
+  "betterend:aeternium_shovel": {
+    "max_enchanting_slots": 8,
+    "repair_scaling": 1.0
+  },
+  "betterend:aeternium_helmet": {
+    "max_enchanting_slots": 8,
+    "repair_scaling": 1.0
+  },
+  "betterend:aeternium_chestplate": {
+    "max_enchanting_slots": 8,
+    "repair_scaling": 1.0
+  },
+  "betterend:aeternium_leggings": {
+    "max_enchanting_slots": 8,
+    "repair_scaling": 1.0
+  },
+  "betterend:aeternium_boots": {
+    "max_enchanting_slots": 8,
+    "repair_scaling": 1.0
+  },
+  "betterend:terminite_sword": {
+    "max_enchanting_slots": 12,
+    "repair_scaling": 0.5
+  },
+  "betterend:terminite_pickaxe": {
+    "max_enchanting_slots": 12,
+    "repair_scaling": 0.5
+  },
+  "betterend:terminite_axe": {
+    "max_enchanting_slots": 12,
+    "repair_scaling": 0.5
+  },
+  "betterend:terminite_hoe": {
+    "max_enchanting_slots": 12,
+    "repair_scaling": 0.5
+  },
+  "betterend:terminite_hammer": {
+    "max_enchanting_slots": 12,
+    "repair_scaling": 0.5
+  },
+  "betterend:terminite_shovel": {
+    "max_enchanting_slots": 12,
+    "repair_scaling": 0.5
+  },
+  "betterend:terminite_helmet": {
+    "max_enchanting_slots": 12,
+    "repair_scaling": 0.5
+  },
+  "betterend:terminite_chestplate": {
+    "max_enchanting_slots": 12,
+    "repair_scaling": 0.5
+  },
+  "betterend:terminite_leggings": {
+    "max_enchanting_slots": 12,
+    "repair_scaling": 0.5
+  },
+  "betterend:terminite_boots": {
+    "max_enchanting_slots": 12,
+    "repair_scaling": 0.5
+  },
+  "betterend:thallasium_sword": {
+    "max_enchanting_slots": 12,
+    "repair_scaling": 1.0
+  },
+  "betterend:thallasium_pickaxe": {
+    "max_enchanting_slots": 12,
+    "repair_scaling": 1.0
+  },
+  "betterend:thallasium_axe": {
+    "max_enchanting_slots": 12,
+    "repair_scaling": 1.0
+  },
+  "betterend:thallasium_hoe": {
+    "max_enchanting_slots": 12,
+    "repair_scaling": 1.0
+  },
+  "betterend:thallasium_hammer": {
+    "max_enchanting_slots": 12,
+    "repair_scaling": 1.0
+  },
+  "betterend:thallasium_shovel": {
+    "max_enchanting_slots": 12,
+    "repair_scaling": 1.0
+  },
+  "betterend:crystalite_helmet": {
+    "max_enchanting_slots": 6,
+    "repair_scaling": 1.0
+  },
+  "betterend:crystalite_chestplate": {
+    "max_enchanting_slots": 6,
+    "repair_scaling": 1.0
+  },
+  "betterend:crystalite_leggings": {
+    "max_enchanting_slots": 6,
+    "repair_scaling": 1.0
+  },
+  "betterend:crystalite_boots": {
+    "max_enchanting_slots": 6,
+    "repair_scaling": 1.0
+  },
+  "betternether:cincinnasite_shears": {
+    "max_enchanting_slots": 5,
+    "repair_scaling": 1.0
+  },
+  "betternether:cincinnasite_sword": {
+    "max_enchanting_slots": 8,
+    "repair_scaling": 1.0
+  },
+  "betternether:cincinnasite_axe": {
+    "max_enchanting_slots": 8,
+    "repair_scaling": 1.0
+  },
+  "betternether:cincinnasite_shovel": {
+    "max_enchanting_slots": 8,
+    "repair_scaling": 1.0
+  },
+  "betternether:cincinnasite_hoe": {
+    "max_enchanting_slots": 8,
+    "repair_scaling": 1.0
+  },
+  "betternether:cincinnasite_pickaxe": {
+    "max_enchanting_slots": 8,
+    "repair_scaling": 1.0
+  },
+  "betternether:cincinnasite_helmet": {
+    "max_enchanting_slots": 8,
+    "repair_scaling": 1.0
+  },
+  "betternether:cincinnasite_chestplate": {
+    "max_enchanting_slots": 8,
+    "repair_scaling": 1.0
+  },
+  "betternether:cincinnasite_leggings": {
+    "max_enchanting_slots": 8,
+    "repair_scaling": 1.0
+  },
+  "betternether:cincinnasite_boots": {
+    "max_enchanting_slots": 8,
+    "repair_scaling": 1.0
+  },
+  "betternether:cincinnasite_sword_diamond": {
+    "max_enchanting_slots": 8,
+    "repair_scaling": 2.0
+  },
+  "betternether:cincinnasite_axe_diamond": {
+    "max_enchanting_slots": 8,
+    "repair_scaling": 2.0
+  },
+  "betternether:cincinnasite_shovel_diamond": {
+    "max_enchanting_slots": 8,
+    "repair_scaling": 2.0
+  },
+  "betternether:cincinnasite_hoe_diamond": {
+    "max_enchanting_slots": 8,
+    "repair_scaling": 2.0
+  },
+  "betternether:cincinnasite_pickaxe_diamond": {
+    "max_enchanting_slots": 8,
+    "repair_scaling": 2.0
+  },
+  "betternether:nether_ruby_sword": {
+    "max_enchanting_slots": 11,
+    "repair_scaling": 1.0
+  },
+  "betternether:nether_ruby_axe": {
+    "max_enchanting_slots": 11,
+    "repair_scaling": 1.0
+  },
+  "betternether:nether_ruby_shovel": {
+    "max_enchanting_slots": 11,
+    "repair_scaling": 1.0
+  },
+  "betternether:nether_ruby_hoe": {
+    "max_enchanting_slots": 11,
+    "repair_scaling": 1.0
+  },
+  "betternether:nether_ruby_pickaxe": {
+    "max_enchanting_slots": 11,
+    "repair_scaling": 1.0
+  },
+  "betternether:nether_ruby_helmet": {
+    "max_enchanting_slots": 11,
+    "repair_scaling": 1.0
+  },
+  "betternether:nether_ruby_chestplate": {
+    "max_enchanting_slots": 11,
+    "repair_scaling": 1.0
+  },
+  "betternether:nether_ruby_leggings": {
+    "max_enchanting_slots": 11,
+    "repair_scaling": 1.0
+  },
+  "betternether:nether_ruby_boots": {
+    "max_enchanting_slots": 11,
+    "repair_scaling": 1.0
+  },
+  "adventurez:stone_golem_helmet": {
+    "max_enchanting_slots": 8,
+    "repair_scaling": 0.5
+  },
+  "adventurez:stone_golem_chestplate": {
+    "max_enchanting_slots": 8,
+    "repair_scaling": 0.5
+  },
+  "adventurez:stone_golem_leggings": {
+    "max_enchanting_slots": 8,
+    "repair_scaling": 0.5
+  },
+  "adventurez:stone_golem_boots": {
+    "max_enchanting_slots": 8,
+    "repair_scaling": 0.5
+  },
+  "adventurez:ender_flute": {
+    "max_enchanting_slots": 5,
+    "repair_scaling": 1.0
+  },
+  "adventurez:chorus_fruit_on_a_stick": {
+    "max_enchanting_slots": 5,
+    "repair_scaling": 1.0
+  },
+  "wolveswitharmor:leather_wolf_armor": {
+    "max_enchanting_slots": 16,
+    "repair_scaling": 1.0
+  },
+  "wolveswitharmor:iron_wolf_armor": {
+    "max_enchanting_slots": 12,
+    "repair_scaling": 2.0
+  },
+  "wolveswitharmor:golden_wolf_armor": {
+    "max_enchanting_slots": 18,
+    "repair_scaling": 1.0
+  },
+  "wolveswitharmor:diamond_wolf_armor": {
+    "max_enchanting_slots": 10,
+    "repair_scaling": 0.5
+  },
+  "wolveswitharmor:netherite_wolf_armor": {
+    "max_enchanting_slots": 10,
+    "repair_scaling": 1.0
+  },
+  "gateofbabylon:netherite_dagger": {
+    "max_enchanting_slots": 10,
+    "repair_scaling": 1.0
+  },
+  "gateofbabylon:netherite_spear": {
+    "max_enchanting_slots": 10,
+    "repair_scaling": 1.0
+  },
+  "gateofbabylon:netherite_broadsword": {
+    "max_enchanting_slots": 10,
+    "repair_scaling": 1.0
+  },
+  "gateofbabylon:netherite_rapier": {
+    "max_enchanting_slots": 10,
+    "repair_scaling": 1.0
+  },
+  "gateofbabylon:netherite_haladie": {
+    "max_enchanting_slots": 10,
+    "repair_scaling": 1.0
+  },
+  "gateofbabylon:netherite_waraxe": {
+    "max_enchanting_slots": 10,
+    "repair_scaling": 1.0
+  },
+  "gateofbabylon:netherite_katana": {
+    "max_enchanting_slots": 10,
+    "repair_scaling": 1.0
+  },
+  "gateofbabylon:netherite_bow": {
+    "max_enchanting_slots": 10,
+    "repair_scaling": 1.0
+  },
+  "gateofbabylon:netherite_shield": {
+    "max_enchanting_slots": 10,
+    "repair_scaling": 1.0
+  },
+  "gateofbabylon:netherite_yoyo": {
+    "max_enchanting_slots": 10,
+    "repair_scaling": 1.0
+  },
+  "gateofbabylon:netherite_boomerang": {
+    "max_enchanting_slots": 10,
+    "repair_scaling": 1.0
+  },
+  "gateofbabylon:diamond_dagger": {
+    "max_enchanting_slots": 10,
+    "repair_scaling": 0.5
+  },
+  "gateofbabylon:diamond_spear": {
+    "max_enchanting_slots": 10,
+    "repair_scaling": 0.5
+  },
+  "gateofbabylon:diamond_broadsword": {
+    "max_enchanting_slots": 10,
+    "repair_scaling": 0.5
+  },
+  "gateofbabylon:diamond_rapier": {
+    "max_enchanting_slots": 10,
+    "repair_scaling": 0.5
+  },
+  "gateofbabylon:diamond_haladie": {
+    "max_enchanting_slots": 10,
+    "repair_scaling": 0.5
+  },
+  "gateofbabylon:diamond_waraxe": {
+    "max_enchanting_slots": 10,
+    "repair_scaling": 0.5
+  },
+  "gateofbabylon:diamond_katana": {
+    "max_enchanting_slots": 10,
+    "repair_scaling": 0.5
+  },
+  "gateofbabylon:diamond_bow": {
+    "max_enchanting_slots": 10,
+    "repair_scaling": 0.5
+  },
+  "gateofbabylon:diamond_shield": {
+    "max_enchanting_slots": 10,
+    "repair_scaling": 0.5
+  },
+  "gateofbabylon:diamond_yoyo": {
+    "max_enchanting_slots": 10,
+    "repair_scaling": 0.5
+  },
+  "gateofbabylon:diamond_boomerang": {
+    "max_enchanting_slots": 10,
+    "repair_scaling": 0.5
+  },
+  "gateofbabylon:golden_dagger": {
+    "max_enchanting_slots": 18,
+    "repair_scaling": 1.0
+  },
+  "gateofbabylon:golden_spear": {
+    "max_enchanting_slots": 18,
+    "repair_scaling": 1.0
+  },
+  "gateofbabylon:golden_broadsword": {
+    "max_enchanting_slots": 18,
+    "repair_scaling": 1.0
+  },
+  "gateofbabylon:golden_rapier": {
+    "max_enchanting_slots": 18,
+    "repair_scaling": 1.0
+  },
+  "gateofbabylon:golden_haladie": {
+    "max_enchanting_slots": 18,
+    "repair_scaling": 1.0
+  },
+  "gateofbabylon:golden_waraxe": {
+    "max_enchanting_slots": 18,
+    "repair_scaling": 1.0
+  },
+  "gateofbabylon:golden_katana": {
+    "max_enchanting_slots": 18,
+    "repair_scaling": 1.0
+  },
+  "gateofbabylon:golden_bow": {
+    "max_enchanting_slots": 18,
+    "repair_scaling": 1.0
+  },
+  "gateofbabylon:golden_shield": {
+    "max_enchanting_slots": 18,
+    "repair_scaling": 1.0
+  },
+  "gateofbabylon:golden_yoyo": {
+    "max_enchanting_slots": 18,
+    "repair_scaling": 1.0
+  },
+  "gateofbabylon:golden_boomerang": {
+    "max_enchanting_slots": 18,
+    "repair_scaling": 1.0
+  },
+  "gateofbabylon:iron_dagger": {
+    "max_enchanting_slots": 12,
+    "repair_scaling": 2.0
+  },
+  "gateofbabylon:iron_spear": {
+    "max_enchanting_slots": 12,
+    "repair_scaling": 2.0
+  },
+  "gateofbabylon:iron_broadsword": {
+    "max_enchanting_slots": 12,
+    "repair_scaling": 2.0
+  },
+  "gateofbabylon:iron_rapier": {
+    "max_enchanting_slots": 12,
+    "repair_scaling": 2.0
+  },
+  "gateofbabylon:iron_haladie": {
+    "max_enchanting_slots": 12,
+    "repair_scaling": 2.0
+  },
+  "gateofbabylon:iron_waraxe": {
+    "max_enchanting_slots": 12,
+    "repair_scaling": 2.0
+  },
+  "gateofbabylon:iron_katana": {
+    "max_enchanting_slots": 12,
+    "repair_scaling": 2.0
+  },
+  "gateofbabylon:iron_bow": {
+    "max_enchanting_slots": 12,
+    "repair_scaling": 2.0
+  },
+  "gateofbabylon:iron_shield": {
+    "max_enchanting_slots": 12,
+    "repair_scaling": 2.0
+  },
+  "gateofbabylon:iron_yoyo": {
+    "max_enchanting_slots": 12,
+    "repair_scaling": 2.0
+  },
+  "gateofbabylon:iron_boomerang": {
+    "max_enchanting_slots": 12,
+    "repair_scaling": 2.0
+  },
+  "gateofbabylon:stone_dagger": {
+    "max_enchanting_slots": 14,
+    "repair_scaling": 2.0
+  },
+  "gateofbabylon:stone_spear": {
+    "max_enchanting_slots": 14,
+    "repair_scaling": 2.0
+  },
+  "gateofbabylon:stone_broadsword": {
+    "max_enchanting_slots": 14,
+    "repair_scaling": 2.0
+  },
+  "gateofbabylon:stone_rapier": {
+    "max_enchanting_slots": 14,
+    "repair_scaling": 2.0
+  },
+  "gateofbabylon:stone_haladie": {
+    "max_enchanting_slots": 14,
+    "repair_scaling": 2.0
+  },
+  "gateofbabylon:stone_waraxe": {
+    "max_enchanting_slots": 14,
+    "repair_scaling": 2.0
+  },
+  "gateofbabylon:stone_katana": {
+    "max_enchanting_slots": 14,
+    "repair_scaling": 2.0
+  },
+  "gateofbabylon:stone_bow": {
+    "max_enchanting_slots": 14,
+    "repair_scaling": 2.0
+  },
+  "gateofbabylon:stone_shield": {
+    "max_enchanting_slots": 14,
+    "repair_scaling": 2.0
+  },
+  "gateofbabylon:stone_yoyo": {
+    "max_enchanting_slots": 14,
+    "repair_scaling": 2.0
+  },
+  "gateofbabylon:stone_boomerang": {
+    "max_enchanting_slots": 14,
+    "repair_scaling": 2.0
+  },
+  "gateofbabylon:wooden_dagger": {
+    "max_enchanting_slots": 16,
+    "repair_scaling": 2.0
+  },
+  "gateofbabylon:wooden_spear": {
+    "max_enchanting_slots": 16,
+    "repair_scaling": 2.0
+  },
+  "gateofbabylon:wooden_broadsword": {
+    "max_enchanting_slots": 16,
+    "repair_scaling": 2.0
+  },
+  "gateofbabylon:wooden_rapier": {
+    "max_enchanting_slots": 16,
+    "repair_scaling": 2.0
+  },
+  "gateofbabylon:wooden_haladie": {
+    "max_enchanting_slots": 16,
+    "repair_scaling": 2.0
+  },
+  "gateofbabylon:wooden_waraxe": {
+    "max_enchanting_slots": 16,
+    "repair_scaling": 2.0
+  },
+  "gateofbabylon:wooden_katana": {
+    "max_enchanting_slots": 16,
+    "repair_scaling": 2.0
+  },
+  "gateofbabylon:wooden_bow": {
+    "max_enchanting_slots": 16,
+    "repair_scaling": 2.0
+  },
+  "gateofbabylon:wooden_shield": {
+    "max_enchanting_slots": 16,
+    "repair_scaling": 2.0
+  },
+  "gateofbabylon:wooden_yoyo": {
+    "max_enchanting_slots": 16,
+    "repair_scaling": 2.0
+  },
+  "gateofbabylon:wooden_boomerang": {
+    "max_enchanting_slots": 16,
+    "repair_scaling": 2.0
+  },
+  "dragonloot:dragon_helmet": {
+    "max_enchanting_slots": 8,
+    "repair_scaling": 1.0
+  },
+  "dragonloot:dragon_chestplate": {
+    "max_enchanting_slots": 8,
+    "repair_scaling": 1.0
+  },
+  "dragonloot:dragon_leggings": {
+    "max_enchanting_slots": 8,
+    "repair_scaling": 1.0
+  },
+  "dragonloot:dragon_boots": {
+    "max_enchanting_slots": 8,
+    "repair_scaling": 1.0
+  },
+  "dragonloot:dragon_pickaxe": {
+    "max_enchanting_slots": 8,
+    "repair_scaling": 1.0
+  },
+  "dragonloot:dragon_shovel": {
+    "max_enchanting_slots": 8,
+    "repair_scaling": 1.0
+  },
+  "dragonloot:dragon_axe": {
+    "max_enchanting_slots": 8,
+    "repair_scaling": 1.0
+  },
+  "dragonloot:dragon_hoe": {
+    "max_enchanting_slots": 8,
+    "repair_scaling": 1.0
+  },
+  "dragonloot:dragon_sword": {
+    "max_enchanting_slots": 8,
+    "repair_scaling": 1.0
+  },
+  "dragonloot:dragon_crossbow": {
+    "max_enchanting_slots": 6,
+    "repair_scaling": 1.0
+  },
+  "dragonloot:dragon_bow": {
+    "max_enchanting_slots": 6,
+    "repair_scaling": 1.0
+  },
+  "dragonloot:dragon_trident": {
+    "max_enchanting_slots": 6,
+    "repair_scaling": 1.0
+  },
+  "ratsmischief:rat_mask": {
+    "max_enchanting_slots": 18,
+    "repair_scaling": 1.0
+  },
+  "farmersdelight:flint_knife": {
+    "max_enchanting_slots": 14,
+    "repair_scaling": 2.0
+  },
+  "farmersdelight:iron_knife": {
+    "max_enchanting_slots": 12,
+    "repair_scaling": 2.0
+  },
+  "farmersdelight:golden_knife": {
+    "max_enchanting_slots": 18,
+    "repair_scaling": 1.0
+  },
+  "farmersdelight:diamond_knife": {
+    "max_enchanting_slots": 10,
+    "repair_scaling": 0.5
+  },
+  "farmersdelight:netherite_knife": {
+    "max_enchanting_slots": 10,
+    "repair_scaling": 1.0
+  },
+  "consistency_plus:turtle_chestplate": {
+    "max_enchanting_slots": 15,
+    "repair_scaling": 0.5
+  },
+  "consistency_plus:turtle_leggings": {
+    "max_enchanting_slots": 15,
+    "repair_scaling": 0.5
+  },
+  "consistency_plus:turtle_boots": {
+    "max_enchanting_slots": 15,
+    "repair_scaling": 0.5
+  }
+}
