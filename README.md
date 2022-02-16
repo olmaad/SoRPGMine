@@ -1,10 +1,10 @@
 # SoRPGMine
 
-# Это БЕТА версия сборки. Она будет обновлятся и улучшатся, пока не выйдет на нормальный, приемлемый и комфортный уровень игры.
+# This is a BETA build. It will be updated and improved until it reaches a normal, acceptable and comfortable level of play.
 
-Целью этой сборки является стабильность, баланс и комфорт игры. Важные составляющие этого - **FPS и TPS**. Первая цель успешно достигнута, со второй были и БУДУТ проблемы, поэтому это будет решаться ещё долгое время.
+The purpose of this build is stability, balance and comfort of the game. Important components of this are **FPS and TPS**. The first goal was successfully achieved, there were and WILL be problems with the second, so this will be solved for a long time.
 
-Любые баги будут адресованны разработчикам на исправление, поэтому чем быстрее все они найдутся, тем лучше. 
+Any bugs will be addressed to the mods developers for fixing, so the sooner they are found, the better.
 
-# Что это за сборка?
-Эта сборка является ваниллой с элементами рпг и дополнительным контентом, кроме одного аддона вся эта сборка не сильно выбивается из ванильной атмосферы. Присутствует множество улучшений и исправлений, а также некоторые исправления баланса, дабы уравнять сложность и возможности игроков и их Происхождений.
+# What modpack is this?
+This modpack is vanilla with RPG elements and additional content, except for one addon, this whole modpack does not really stand out from the vanilla atmosphere. There are many improvements and fixes, as well as some balance fixes to equalize the difficulty and ability of players and their Origins.
