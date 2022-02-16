@@ -12,16 +12,16 @@
 	// 0.1 = 10%
 	"heightFactor": 0.1,
 	// 2.0 = 200% = double
-	"maxFactorHealth": 1.7,
-	"maxFactorDamage": 1.7,
-	"maxFactorProtection": 1.25,
+	"maxFactorHealth": 2.3,
+	"maxFactorDamage": 2.3,
+	"maxFactorProtection": 1.75,
 	// Applies only to special zombie
 	"maxFactorSpeed": 1.75,
 	"allowRandomValues": true,
 	// in %
 	"randomChance": 10,
 	// in %
-	"randomFactor": 10,
+	"randomFactor": 30,
 	// Based on other settings
 	"extraXp": true,
 	"maxXPFactor": 2.0,
