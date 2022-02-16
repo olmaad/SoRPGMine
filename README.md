@@ -8,3 +8,10 @@ Any bugs will be addressed to the mods developers for fixing, so the sooner they
 
 # What modpack is this?
 This modpack is vanilla with RPG elements and additional content, except for one addon, this whole modpack does not really stand out from the vanilla atmosphere. There are many improvements and fixes, as well as some balance fixes to equalize the difficulty and ability of players and their Origins.
+
+# This is NOT an industrial modpack. Pls keep it in mind.
+
+All rights belong to the authors of the modifications, please go to the pages of the authors and tell them everything you think about them... Although it's better not to.
+
+# ANYWAY, there the list:
+
