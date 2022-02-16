@@ -13,6 +13,5 @@ This modpack is vanilla with RPG elements and additional content, except for one
 
 All rights belong to the authors of the modifications, please go to the pages of the authors and tell them everything you think about them... Although it's better not to.
 
-# ANYWAY:
+# ANYWAY, there the list:
 
-There list:
