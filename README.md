@@ -190,4 +190,4 @@ All rights belong to the authors of the modifications, please go to the pages of
 - [Why Am I on Fire?](https://www.curseforge.com/minecraft/mc-mods/why-am-i-on-fire)
 - [Wolves With Armor](https://www.curseforge.com/minecraft/mc-mods/wolves-with-armor)
 - [Fabric Waystones](https://www.curseforge.com/minecraft/mc-mods/fabric-waystones)
-[XL Packets](https://www.curseforge.com/minecraft/mc-mods/xl-packets-fabric)
+- [XL Packets](https://www.curseforge.com/minecraft/mc-mods/xl-packets-fabric)
