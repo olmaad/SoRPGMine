@@ -16,7 +16,7 @@ All rights belong to the authors of the modifications, please go to the pages of
 # ANYWAY, there the list:
 
 
-# 1.4.0
+# 0.4.0
 - [Actually Useful Smithing Table](https://www.curseforge.com/minecraft/mc-mods/actually-useful-smithing-table-fabric/)
 - [Advancments Debug](https://www.curseforge.com/minecraft/mc-mods/advancements-debug)
 - [Adventurez](https://www.curseforge.com/minecraft/mc-mods/adventurez)
