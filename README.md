@@ -42,7 +42,13 @@ All rights belong to the authors of the modifications, please go to the pages of
 - [Bewitchment](https://www.curseforge.com/minecraft/mc-mods/bewitchment)
 - [Camera Overhaul](https://www.curseforge.com/minecraft/mc-mods/cameraoverhaul)
 - [Camera Utils](https://www.curseforge.com/minecraft/mc-mods/camera-utils)
-- 
-- d
+- [Cherished Worlds](https://www.curseforge.com/minecraft/mc-mods/cherished-worlds-fabric)
+- [CleanCut](https://www.curseforge.com/minecraft/mc-mods/cleancut)
+- [Clear Despawn](https://www.curseforge.com/minecraft/mc-mods/clear-despawn-fabric)
+- [Cloth API](https://www.curseforge.com/minecraft/mc-mods/cloth-api)
+- [Cloth Config API](https://www.curseforge.com/minecraft/mc-mods/cloth-config)
+- [Clumps](https://www.curseforge.com/minecraft/mc-mods/clumps)
+- [Collective](https://www.curseforge.com/minecraft/mc-mods/collective-fabric)
+- [Controlling](https://www.curseforge.com/minecraft/mc-mods/controlling)
 - d
 - 
