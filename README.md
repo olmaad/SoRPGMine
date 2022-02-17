@@ -1,6 +1,6 @@
 # SoRPGMine
 
-# This is a BETA build. It will be updated and improved until it reaches a normal, acceptable and comfortable level of play.
+# This is a BETA build. It will be updated and improved until it reaches a normal, acceptable and comfortable level of play. On releases page, for now, are NOT STABLE BUILDS. Pls keep it in mind when you download this.
 
 The purpose of this build is stability, balance and comfort of the game. Important components of this are **FPS and TPS**. The first goal was successfully achieved, there were and WILL be problems with the second, so this will be solved for a long time.
 
