@@ -15,6 +15,8 @@ All rights belong to the authors of the modifications, please go to the pages of
 
 # ANYWAY, there the list:
 
+
+# 1.4.0
 - [Actually Useful Smithing Table](https://www.curseforge.com/minecraft/mc-mods/actually-useful-smithing-table-fabric/)
 - [Advancments Debug](https://www.curseforge.com/minecraft/mc-mods/advancements-debug)
 - [Adventurez](https://www.curseforge.com/minecraft/mc-mods/adventurez)
@@ -93,6 +95,21 @@ All rights belong to the authors of the modifications, please go to the pages of
 - [Feature NBT Deadlock Be Gone](https://www.curseforge.com/minecraft/mc-mods/feature-nbt-deadlock-be-gone)
 - [FerriteCore](https://www.curseforge.com/minecraft/mc-mods/ferritecore-fabric)
 - [Flytre Lib](https://www.curseforge.com/minecraft/mc-mods/lib)
+- [Food Highlight](https://www.curseforge.com/minecraft/mc-mods/food-highlight)
+- [GeckoLib](https://www.curseforge.com/minecraft/mc-mods/geckolib)
+- [Give Me Hats](https://www.curseforge.com/minecraft/mc-mods/give-me-hats)
+- [Goblin Traders](https://www.curseforge.com/minecraft/mc-mods/goblin-traders-fabric)
+- [Go Fish](https://www.curseforge.com/minecraft/mc-mods/go-fish)
+- [Golden Steak](https://www.curseforge.com/minecraft/mc-mods/golden-steak)
+- [Grass Seeds](https://www.curseforge.com/minecraft/mc-mods/grass-seeds-fabric)
+- [Mo's Grounded Origins](https://www.curseforge.com/minecraft/mc-mods/grounded-origins-fabric)
+- [GUI Clock](https://www.curseforge.com/minecraft/mc-mods/gui-clock-fabric-version)
+- [GUI Compass](https://www.curseforge.com/minecraft/mc-mods/gui-compass-fabric-version)
+- [The Guild](https://www.curseforge.com/minecraft/mc-mods/guild)
 - [](url)
 - [](url)
 - [](url)
+- [](url)
+- [](url)
+- [](url)
+- 
