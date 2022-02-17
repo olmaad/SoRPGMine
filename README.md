@@ -15,4 +15,11 @@ All rights belong to the authors of the modifications, please go to the pages of
 
 # ANYWAY, there the list:
 
-Will be added soon!
+- [Actually Useful Smithing Table](https://www.curseforge.com/minecraft/mc-mods/actually-useful-smithing-table-fabric/)
+- [Advancments Debug](https://www.curseforge.com/minecraft/mc-mods/advancements-debug)
+- [Adventurez](https://www.curseforge.com/minecraft/mc-mods/adventurez)
+- [Alternate Current](https://www.curseforge.com/minecraft/mc-mods/alternate-current)
+- [Amplified Nether](https://www.curseforge.com/minecraft/mc-mods/amplified-nether)
+- [Anthropophagy](https://www.curseforge.com/minecraft/mc-mods/anthropophagy)
+- [Antighost](https://www.curseforge.com/minecraft/mc-mods/antighost)
+- 
