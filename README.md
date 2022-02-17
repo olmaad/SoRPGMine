@@ -60,7 +60,7 @@ All rights belong to the authors of the modifications, please go to the pages of
 - [True Darkness](https://www.curseforge.com/minecraft/mc-mods/true-darkness)
 - [Data Attributes](https://www.curseforge.com/minecraft/mc-mods/data-attributes)
 - [Dehydration](https://www.curseforge.com/minecraft/mc-mods/dehydration)
-- [Detail Armor Bar](uhttps://www.curseforge.com/minecraft/mc-mods/detail-armor-barrl)
+- [Detail Armor Bar](https://www.curseforge.com/minecraft/mc-mods/detail-armor-bar)
 - [Disable Custom Worlds Advice](https://www.curseforge.com/minecraft/mc-mods/fabric-disable-custom-worlds-advice)
 - [Disenchanter](https://www.curseforge.com/minecraft/mc-mods/disenchanter)
 - [Dismount Entity](https://www.curseforge.com/minecraft/mc-mods/dismount-entity-fabric)
