@@ -22,4 +22,27 @@ All rights belong to the authors of the modifications, please go to the pages of
 - [Amplified Nether](https://www.curseforge.com/minecraft/mc-mods/amplified-nether)
 - [Anthropophagy](https://www.curseforge.com/minecraft/mc-mods/anthropophagy)
 - [Antighost](https://www.curseforge.com/minecraft/mc-mods/antighost)
+- [Anvil Restoration](https://www.curseforge.com/minecraft/mc-mods/anvil-restoration-fabric)
+- [AppleSkin](https://www.curseforge.com/minecraft/mc-mods/appleskin)
+- [Arcanus](https://www.curseforge.com/minecraft/mc-mods/arcanus)
+- [Architectury API](https://www.curseforge.com/minecraft/mc-mods/architectury-fabric)
+- [Attribute Fix](https://www.curseforge.com/minecraft/mc-mods/attribute)
+- [Awesome Dungeon](https://www.curseforge.com/minecraft/mc-mods/awesome-dungeon-fabric)
+- [Awesome Dungeon Ocean Edition](https://www.curseforge.com/minecraft/mc-mods/awesome-dungeon-edition-ocean-fabric)
+- [Awesome Dungeon Nether Edition](https://www.curseforge.com/minecraft/mc-mods/awesome-dungeon-nether-fabric)
+- [Basic Shields](https://www.curseforge.com/minecraft/mc-mods/basic-shields-fabric)
+- [BCLib](https://www.curseforge.com/minecraft/mc-mods/bclib)
+- [Bedrockify](https://www.curseforge.com/minecraft/mc-mods/bedrockify)
+- [Better Animals Plus](https://www.curseforge.com/minecraft/mc-mods/betteranimalsplus)
+- [Better Beds](https://www.curseforge.com/minecraft/mc-mods/better-beds)
+- [BetterEnd](https://www.curseforge.com/minecraft/mc-mods/betterend)
+- [Better Fps Distance](https://www.curseforge.com/minecraft/mc-mods/better-fps-render-distance)
+- [BetterNether](https://www.curseforge.com/minecraft/mc-mods/betternether)
+- [Better Ping Display](https://www.curseforge.com/minecraft/mc-mods/better-ping-display-fabric)
+- [Bewitchment](https://www.curseforge.com/minecraft/mc-mods/bewitchment)
+- [Camera Overhaul](https://www.curseforge.com/minecraft/mc-mods/cameraoverhaul)
+- [Camera Utils](https://www.curseforge.com/minecraft/mc-mods/camera-utils)
+- 
+- d
+- d
 - 
